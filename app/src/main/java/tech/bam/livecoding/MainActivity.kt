@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
             Navigation()
         }
     }
-
+//ne
     // override fun onResume() {
     //     super.onResume()
     //     if (Settings.canDrawOverlays(this)) {
